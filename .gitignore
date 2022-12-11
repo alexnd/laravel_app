@@ -1,0 +1,8 @@
+.docker
+.DS_Store
+.vscode
+.idea
+/src/.env
+node_modules
+vendor
+/work/
