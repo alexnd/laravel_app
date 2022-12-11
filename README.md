@@ -65,7 +65,7 @@ Dump database to sql file:
 
 - `docker-compose exec php php artisan config:cache`
 
-## Work with frontend
+## Work with frontend using [nodejs](https://nodejs.org/en/download/)
 
 1) `npm i` - setup node_modules
 
